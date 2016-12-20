@@ -1,4 +1,4 @@
-package hello;
+package com.github.liuxboy.rest.hello;
 
 public class Greeting {
 

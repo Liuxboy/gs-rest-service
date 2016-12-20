@@ -1,4 +1,4 @@
-package hello;
+package com.github.liuxboy.rest.hello;
 
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicLong;
